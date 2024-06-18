@@ -12,13 +12,13 @@ Utilizes Python for building the email spam detector. Applies machine learning a
 
 To run the email spam detector, please ensure you have the following dependencies installed:
 
-# *Python 3.x
+* **Python 3.x**
 
-# *numpy
+* **numpy**
 
-# *pandas
+* **pandas** 
 
-# *scikit-learn
+* **scikit-learn**
 
 ###############################################################################
 
@@ -35,8 +35,8 @@ The primary objective of this project is to analyze the unemployment rate during
 
 To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 
-# Python (version 3.6 or higher)
+* **Python (version 3.6 or higher)**
 
-# Jupyter Notebook or JupyterLab
+* **Jupyter Notebook or JupyterLab**
 
-# Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)
+* **Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)**
