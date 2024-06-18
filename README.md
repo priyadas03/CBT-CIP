@@ -14,7 +14,8 @@ _*Python 3.x
 *pandas
 *scikit-learn_
 
-########################################################################################################################################################################################################
+##########################################################################################################
+
 **TASK 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON**
 **Introduction**
 This repository contains a data science project aimed at analyzing the unemployment rate, particularly during the Covid-19 pandemic. Unemployment is an important economic indicator that measures the number of people who are unemployed as a percentage of the total labor force. By studying and understanding the trends and factors affecting unemployment, we can gain valuable insights into the job market and the broader economy.
