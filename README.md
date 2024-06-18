@@ -12,17 +12,17 @@ Utilizes Python for building the email spam detector. Applies machine learning a
 
 To run the email spam detector, please ensure you have the following dependencies installed:
 
-_*Python 3.x
+# *Python 3.x
 
-*numpy
+# *numpy
 
-*pandas
+# *pandas
 
-*scikit-learn_
+# *scikit-learn
 
-#########################################################################################################
+###############################################################################
 
-**TASK 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON**
+# **TASK 2 - UNEMPLOYMENT ANALYSIS WITH PYTHON**
 # **Introduction**
 
 This repository contains a data science project aimed at analyzing the unemployment rate, particularly during the Covid-19 pandemic. Unemployment is an important economic indicator that measures the number of people who are unemployed as a percentage of the total labor force. By studying and understanding the trends and factors affecting unemployment, we can gain valuable insights into the job market and the broader economy.
@@ -35,8 +35,8 @@ The primary objective of this project is to analyze the unemployment rate during
 
 To run the notebooks and reproduce the analysis, ensure you have the following dependencies installed:
 
-_Python (version 3.6 or higher)
+# Python (version 3.6 or higher)
 
-Jupyter Notebook or JupyterLab
+# Jupyter Notebook or JupyterLab
 
-Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)_
+# Required Python libraries (NumPy, Pandas, Matplotlib, Seaborn,etc.)
