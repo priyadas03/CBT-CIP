@@ -1,4 +1,4 @@
-# CBTC
+# CBTCIP
 # **TASK 1 - EMAIL SPAM DETECTION WITH MACHINE LEARNING**
 ## **Introduction**
 
